@@ -1,7 +1,9 @@
 # PepperGuide
 
-Le fichier .py est le code du déplacement et de l'interaction vocale
-Le .zip contient le site présent sur la tablette et l'application Choregraphe
+Dans le dossier PEPPER :
+ - Le fichier .py est le code du déplacement et de l'interaction vocale
+ - 
+
 
 
 Le dossier app/bdd doit se trouver dans un public_html
